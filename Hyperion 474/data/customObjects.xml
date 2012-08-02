@@ -1,0 +1,323 @@
+<list>
+	<gameObject> <!-- Lumbridge Potato fence -->
+		<location>
+			<x>3145</x>
+			<y>3292</y>
+			<z>0</z>
+		</location>
+		<id>1555</id>
+		<type>0</type>
+		<direction>0</direction>
+		<loadedInLandscape>false</loadedInLandscape>
+	</gameObject>
+	<gameObject> <!-- Lumbridge Potato fence -->
+		<location>
+			<x>3145</x>
+			<y>3293</y>
+			<z>0</z>
+		</location>
+		<id>1554</id>
+		<type>0</type>
+		<direction>0</direction>
+		<loadedInLandscape>false</loadedInLandscape>
+	</gameObject>
+	<gameObject> <!-- Lumbridge Potato fence -->
+		<location>
+			<x>3146</x>
+			<y>3291</y>
+			<z>0</z>
+		</location>
+		<id>-1</id>
+		<type>0</type>
+		<direction>1</direction>
+		<loadedInLandscape>false</loadedInLandscape>
+	</gameObject>
+	<gameObject> <!-- Lumbridge Potato fence -->
+		<location>
+			<x>3145</x>
+			<y>3291</y>
+			<z>0</z>
+		</location>
+		<id>-1</id>
+		<type>0</type>
+		<direction>1</direction>
+		<loadedInLandscape>false</loadedInLandscape>
+	</gameObject>
+	<gameObject> <!-- Lumbridge Wheat fence -->
+		<location>
+			<x>3162</x>
+			<y>3290</y>
+			<z>0</z>
+		</location>
+		<id>1555</id>
+		<type>0</type>
+		<direction>0</direction>
+		<loadedInLandscape>false</loadedInLandscape>
+	</gameObject>
+	<gameObject> <!-- Lumbridge Wheat fence -->
+		<location>
+			<x>3162</x>
+			<y>3291</y>
+			<z>0</z>
+		</location>
+		<id>1554</id>
+		<type>0</type>
+		<direction>0</direction>
+		<loadedInLandscape>false</loadedInLandscape>
+	</gameObject>
+	<gameObject> <!-- Lumbridge Wheat fence -->
+		<location>
+			<x>3163</x>
+			<y>3290</y>
+			<z>0</z>
+		</location>
+		<id>-1</id>
+		<type>0</type>
+		<direction>1</direction>
+		<loadedInLandscape>false</loadedInLandscape>
+	</gameObject>
+	<gameObject> <!-- Lumbridge Empty land fence -->
+		<location>
+			<x>3180</x>
+			<y>3289</y>
+			<z>0</z>
+		</location>
+		<id>1555</id>
+		<type>0</type>
+		<direction>0</direction>
+		<loadedInLandscape>false</loadedInLandscape>
+	</gameObject>
+	<gameObject> <!-- Lumbridge Empty land fence -->
+		<location>
+			<x>3180</x>
+			<y>3290</y>
+			<z>0</z>
+		</location>
+		<id>1554</id>
+		<type>0</type>
+		<direction>0</direction>
+		<loadedInLandscape>false</loadedInLandscape>
+	</gameObject>
+	<gameObject> <!-- Lumbridge Empty land fence -->
+		<location>
+			<x>3181</x>
+			<y>3289</y>
+			<z>0</z>
+		</location>
+		<id>-1</id>
+		<type>0</type>
+		<direction>1</direction>
+		<loadedInLandscape>false</loadedInLandscape>
+	</gameObject>
+	<gameObject> <!-- Lumbridge Cabbage fence -->
+		<location>
+			<x>3197</x>
+			<y>3282</y>
+			<z>0</z>
+		</location>
+		<id>1555</id>
+		<type>0</type>
+		<direction>0</direction>
+		<loadedInLandscape>false</loadedInLandscape>
+	</gameObject>
+	<gameObject> <!-- Lumbridge Cabbage fence -->
+		<location>
+			<x>3197</x>
+			<y>3283</y>
+			<z>0</z>
+		</location>
+		<id>1554</id>
+		<type>0</type>
+		<direction>0</direction>
+		<loadedInLandscape>false</loadedInLandscape>
+	</gameObject>
+	<gameObject> <!-- Lumbridge Cabbage fence -->
+		<location>
+			<x>3198</x>
+			<y>3282</y>
+			<z>0</z>
+		</location>
+		<id>-1</id>
+		<type>0</type>
+		<direction>1</direction>
+		<loadedInLandscape>false</loadedInLandscape>
+	</gameObject>
+	<gameObject> <!-- Lumbridge Fred fence -->
+		<location>
+			<x>3188</x>
+			<y>3280</y>
+			<z>0</z>
+		</location>
+		<id>1555</id>
+		<type>0</type>
+		<direction>0</direction>
+		<loadedInLandscape>false</loadedInLandscape>
+	</gameObject>
+	<gameObject> <!-- Lumbridge Fred fence -->
+		<location>
+			<x>3188</x>
+			<y>3281</y>
+			<z>0</z>
+		</location>
+		<id>1554</id>
+		<type>0</type>
+		<direction>0</direction>
+		<loadedInLandscape>false</loadedInLandscape>
+	</gameObject>
+	<gameObject> <!-- Lumbridge Fred fence -->
+		<location>
+			<x>3188</x>
+			<y>3279</y>
+			<z>0</z>
+		</location>
+		<id>-1</id>
+		<type>0</type>
+		<direction>1</direction>
+		<loadedInLandscape>false</loadedInLandscape>
+	</gameObject>
+	<gameObject> <!-- Lumbridge Fred fence -->
+		<location>
+			<x>3189</x>
+			<y>3279</y>
+			<z>0</z>
+		</location>
+		<id>-1</id>
+		<type>0</type>
+		<direction>1</direction>
+		<loadedInLandscape>false</loadedInLandscape>
+	</gameObject>
+	<gameObject> <!-- Lumbridge Sheep fence -->
+		<location>
+			<x>3212</x>
+			<y>3260</y>
+			<z>0</z>
+		</location>
+		<id>1554</id>
+		<type>0</type>
+		<direction>1</direction>
+		<loadedInLandscape>false</loadedInLandscape>
+	</gameObject>
+	<gameObject> <!-- Lumbridge Sheep fence -->
+		<location>
+			<x>3211</x>
+			<y>3260</y>
+			<z>0</z>
+		</location>
+		<id>1555</id>
+		<type>0</type>
+		<direction>1</direction>
+		<loadedInLandscape>false</loadedInLandscape>
+	</gameObject>
+	<gameObject> <!-- Lumbridge Sheep fence -->
+		<location>
+			<x>3213</x>
+			<y>3261</y>
+			<z>0</z>
+		</location>
+		<id>-1</id>
+		<type>0</type>
+		<direction>1</direction>
+		<loadedInLandscape>false</loadedInLandscape>
+	</gameObject>
+	<gameObject> <!-- Lumbridge Sheep fence -->
+		<location>
+			<x>3213</x>
+			<y>3262</y>
+			<z>0</z>
+		</location>
+		<id>-1</id>
+		<type>0</type>
+		<direction>1</direction>
+		<loadedInLandscape>false</loadedInLandscape>
+	</gameObject>
+	
+	<gameObject> <!-- Lumbridge Fred's Garden fence -->
+		<location>
+			<x>3186</x>
+			<y>3268</y>
+			<z>0</z>
+		</location>
+		<id>1554</id>
+		<type>0</type>
+		<direction>3</direction>
+		<loadedInLandscape>false</loadedInLandscape>
+	</gameObject>
+	<gameObject> <!-- Lumbridge Fred's Garden fence -->
+		<location>
+			<x>3187</x>
+			<y>3268</y>
+			<z>0</z>
+		</location>
+		<id>1555</id>
+		<type>0</type>
+		<direction>3</direction>
+		<loadedInLandscape>false</loadedInLandscape>
+	</gameObject>
+	<gameObject> <!-- Lumbridge Fred's Garden fence -->
+		<location>
+			<x>3186</x>
+			<y>3269</y>
+			<z>0</z>
+		</location>
+		<id>-1</id>
+		<type>0</type>
+		<direction>1</direction>
+		<loadedInLandscape>false</loadedInLandscape>
+	</gameObject>
+	<gameObject> <!-- Lumbridge stile fix -->
+		<location>
+			<x>3197</x>
+			<y>3276</y>
+			<z>0</z>
+		</location>
+		<id>993</id>
+		<type>10</type>
+		<direction>0</direction>
+		<loadedInLandscape>false</loadedInLandscape>
+	</gameObject>
+	<gameObject> <!-- Lumbridge trapdoor fix -->
+		<location>
+			<x>3209</x>
+			<y>3216</y>
+			<z>0</z>
+		</location>
+		<id>14879</id>
+		<type>22</type>
+		<direction>0</direction>
+		<loadedInLandscape>false</loadedInLandscape>
+	</gameObject>
+	<gameObject> <!-- Lumbridge cellar, removing table -->
+		<location>
+			<x>3217</x>
+			<y>9621</y>
+			<z>0</z>
+		</location>
+		<id>-1</id>
+		<type>10</type>
+		<direction>3</direction>
+		<loadedInLandscape>false</loadedInLandscape>
+	</gameObject>
+	<gameObject> <!-- Lumbridge cellar, removing table -->
+		<location>
+			<x>3217</x>
+			<y>9622</y>
+			<z>0</z>
+		</location>
+		<id>595</id>
+		<type>10</type>
+		<direction>3</direction>
+		<loadedInLandscape>false</loadedInLandscape>
+	</gameObject>
+	<gameObject> <!-- Lumbridge cellar, Chest -->
+		<location>
+			<x>3219</x>
+			<y>9623</y>
+			<z>0</z>
+		</location>
+		<id>12309</id>
+		<type>10</type>
+		<direction>1</direction>
+		<loadedInLandscape>false</loadedInLandscape>
+	</gameObject>
+	
+</list>
